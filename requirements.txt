@@ -1,0 +1,6 @@
+google-generativeai
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
